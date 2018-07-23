@@ -1,0 +1,34 @@
+[
+    {
+        "aspect": "Freedom of Association",
+        "indicators": [ "fa_1"]
+    },
+    {
+        "aspect": "Child Labor",
+        "indicators": ["cl_1", "cl_2"]
+    },
+    {
+        "aspect": "Forced Labor",
+        "indicators": ["fl_1"]
+    },
+    {
+        "aspect": "Working Hours",
+        "indicators": ["wh_1", "wh_2"]
+    },
+    {
+        "aspect": "Fair Salary",
+        "indicators": ["fs_1", "fs_2"]
+    },
+    {
+        "aspect": "Equal Opportunities",
+        "indicators": ["eo_1", "eo_2"]
+    },
+    {
+        "aspect": "Health and Safety",
+        "indicators": ["hs_1"]
+    },
+    {
+        "aspect": "Social Security",
+        "indicators": ["sb_1"]
+    }
+]
